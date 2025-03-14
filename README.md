@@ -7,6 +7,7 @@ Kaggleで新たにコンペに挑戦し、高スコアを獲得することが�
 様々なモデルやハイパーパラメータチューニングを試し、スコア向上を目指しました。
 
 使用したモデル: DecisionTree, RandomForest, LightGBM, XGBoost
+
 使用したチューニングの手法: Optuna, GridSearchCV
 
 また、アンセンブルも行いました。
