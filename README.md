@@ -7,5 +7,4 @@ Kaggleで新たにコンペに挑戦し、高スコアを獲得することが�
 使用したモデル: DecisionTree, RandomForest, LightGBM, XGBoost
 
 また、アンセンブルも行いました。
-
-使用したライブラリ: numpy, pandas, matplotlib,
+使用したライブラリ: numpy, pandas, matplotlib, sklearn, optuna
